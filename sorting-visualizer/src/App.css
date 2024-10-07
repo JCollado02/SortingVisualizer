@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #282c34;
+}
+
+.array-container {
+  display: flex;
+  align-items: flex-end;
+}
+
+.array-bar {
+  width: 30px;
+  margin: 0 2px;
+  background-color: lightblue;
+}
